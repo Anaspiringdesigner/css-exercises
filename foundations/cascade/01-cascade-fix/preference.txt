@@ -1,0 +1,6 @@
+1. ID
+2. Class
+3. Type
+4. Inheritance
+5. Position in the CSS code (the last one wins)
+6. Universal selector and other combinator (0 value)
