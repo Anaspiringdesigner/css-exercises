@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgba(255, 182, 193, 1);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+#big {
+    color: rgba(0, 0, 255, 1.0);
+    font-size: 36px;
+}
+
+#kid {
+    font-size: 24px;
+}
+
+.boy {
+    color: black;
+    font-weight: bold;
+    background-color: rgba(144, 238, 144, 1.0);
+}
